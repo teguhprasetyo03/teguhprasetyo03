@@ -1,14 +1,15 @@
 ### Hi there 👋 I'm Teguh Prasetyo Founder & Educator at Kelas Coding
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=teguhprasetyo03&show_icons=true)
-
-- 📫 How to reach me:  
-  <a target="_blank" href="https://www.linkedin.com/in/teguh-prasetyo-9a9bbb10a/">
+- 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/teguh-prasetyo-9a9bbb10a/">
   LinkedIn
   </a>
   <a target="_blank" href="https://www.instagram.com/andi_teguhprasetyo/">
   Instagram
   </a>
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=teguhprasetyo03&show_icons=true)
+
+
 <!--
 **teguhprasetyo03/teguhprasetyo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
