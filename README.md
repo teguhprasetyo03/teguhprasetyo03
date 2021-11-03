@@ -7,8 +7,7 @@
   Instagram
   </a>
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=teguhprasetyo03&show_icons=true)
-
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=teguhprasetyo03&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teguhprasetyo03&theme=tokyonight)
 
 <!--
