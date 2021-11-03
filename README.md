@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Teguh Prasetyo Founder & Educator at Kelas Coding
 
 <!--
 **teguhprasetyo03/teguhprasetyo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
