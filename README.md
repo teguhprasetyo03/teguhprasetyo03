@@ -3,7 +3,7 @@
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=teguhprasetyo03&show_icons=true)
 
 📫 How to reach me:  <a target="_blank" href="https://www.linkedin.com/in/teguh-prasetyo-9a9bbb10a/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  Instagram
 </a> ...
 <!--
 **teguhprasetyo03/teguhprasetyo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
