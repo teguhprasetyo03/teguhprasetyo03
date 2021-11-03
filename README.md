@@ -8,7 +8,8 @@
   </a>
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=teguhprasetyo03&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teguhprasetyo03)](https://github.com/teguhprasetyo03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teguhprasetyo03&layout=compact)](https://github.com/teguhprasetyo03/github-readme-stats)
+
 
 <!--
 **teguhprasetyo03/teguhprasetyo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
