@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Teguh Prasetyo Founder & Educator at Kelas Coding
 
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=teguhprasetyo03&show_icons=true)
+
 <!--
 **teguhprasetyo03/teguhprasetyo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
