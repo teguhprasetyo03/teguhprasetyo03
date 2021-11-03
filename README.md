@@ -2,9 +2,13 @@
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=teguhprasetyo03&show_icons=true)
 
-📫 How to reach me:  <a target="_blank" href="https://www.linkedin.com/in/teguh-prasetyo-9a9bbb10a/">
+- 📫 How to reach me:  
+  <a target="_blank" href="https://www.linkedin.com/in/teguh-prasetyo-9a9bbb10a/">
+  LinkedIn
+  </a>
+  <a target="_blank" href="https://www.instagram.com/andi_teguhprasetyo/">
   Instagram
-</a> ...
+  </a>
 <!--
 **teguhprasetyo03/teguhprasetyo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
