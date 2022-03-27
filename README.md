@@ -7,7 +7,7 @@
   Instagram
   </a> &
    <a target="_blank" href="https://www.youtube.com/kelascoding/">
-  Instagram
+  Youtube
   </a> 
   
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=teguhprasetyo03&show_icons=true) 
