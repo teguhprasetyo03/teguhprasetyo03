@@ -4,7 +4,7 @@
   LinkedIn
   </a>,
   <a target="_blank" href="https://www.instagram.com/andi_teguhprasetyo/">
-  Instagram
+ Instagram
   </a> &
    <a target="_blank" href="https://www.youtube.com/kelascoding/">
   Youtube
