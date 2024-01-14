@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Teguh Prasetyo Founder & Educator at Kelas Coding
+### Hi there 👋 I'm Teguh Prasetyo as Business Analyst, Teacher & Educator at Kelas Coding
 
 - 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/teguh-prasetyo-9a9bbb10a/">
   LinkedIn
